@@ -2,6 +2,12 @@
 
 **TempleJourney** is a serene and immersive website designed to offer users a tranquil and spiritual experience centered around a temple theme. This project combines stunning visuals, interactive elements, and smooth animations to create a peaceful digital retreat.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+
 ## Project Overview
 
 **TempleJourney** provides a virtual sanctuary where visitors can explore a temple's serene environment and connect with a sense of peace and harmony. The website features:
